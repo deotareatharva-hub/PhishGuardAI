@@ -1,0 +1,13 @@
+Autoencoder + MLP Results (Group-Aware Split)
+Original features: 16
+Encoded features: 8
+Training samples: 80387
+Testing samples: 20485
+Autoencoder training time: 18.57 seconds
+Accuracy: 0.9981
+Precision: 0.9974
+Recall: 0.9974
+F1-score: 0.9974
+Confusion Matrix:
+[[13232    19]
+ [   19  7215]]

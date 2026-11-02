@@ -1,0 +1,9 @@
+SVD + MLP Results (Group-Aware Split)
+Original features: 16
+SVD components: 10
+Explained variance ratio: 0.9673
+Transformation time: 0.186 seconds
+Accuracy: 0.9994
+Precision: 0.9993
+Recall: 0.9990
+F1-score: 0.9992

@@ -1,0 +1,9 @@
+MLP Results (Group-Aware Split)
+Accuracy: 0.9992
+Precision: 0.9989
+Recall: 0.9988
+F1-score: 0.9988
+Confusion Matrix:
+[[13243     8]
+ [    9  7225]]
+Iterations: 23

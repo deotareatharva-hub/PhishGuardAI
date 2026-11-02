@@ -1,0 +1,8 @@
+PCA + MLP Results (Group-Aware Split)
+Original features: 16
+PCA components: 9
+Explained variance: 0.9533
+Accuracy: 0.9984
+Precision: 0.9975
+Recall: 0.9979
+F1-score: 0.9977
